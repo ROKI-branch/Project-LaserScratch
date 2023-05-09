@@ -3,8 +3,6 @@
 Brawl Stars open source server for v20!
 
 
-![ScreenShot](https://cdn.discordapp.com/attachments/914412016100315187/915434728625152030/Screenshot_20211130-235016.png) 
-
 
 ## Implemented Features
   - Battle End
